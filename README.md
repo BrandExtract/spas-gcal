@@ -8,4 +8,4 @@ $ [sudo] npm install spas-gcal
 ```
 
 ## Documentation
-[http://jlafitte.github.com/spas-gcal](http://jlafitte.github.com/spas-gcal)
+Usage should mostly be covered in the [spas documentation](https://github.com/dtex/spas).
