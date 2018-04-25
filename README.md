@@ -1,6 +1,5 @@
 # spas-gcal
-Google Calendar api helper for SPAS/BundleBee
-
+Google Calendar API helper for SPAS/BundleBee
 
 ## Installation
 

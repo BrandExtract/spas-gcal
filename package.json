@@ -1,11 +1,11 @@
 {
   "name": "spas-gcal",
-  "description": "Google Calendar wrapper for spas",
+  "description": "Google Calendar API helper for SPAS/BundleBee",
   "version": "0.0.3",
   "author": "BrandExtract (http://www.brandextract.com)",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/brandextract/spas-gcal.git"
+    "url": "git+ssh://git@github.com/BrandExtract/spas-gcal.git"
   },
   "keywords": [
     "spas",
