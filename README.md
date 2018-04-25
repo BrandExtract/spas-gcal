@@ -1,6 +1,13 @@
 # spas-gcal
+Google Calendar api helper for SPAS/BundleBee
 
-Google Calendar wrapper for spas
+
+## Installation
+
+### Installing spas
+``` bash
+$ [sudo] npm install spas -g
+```
 
 ### Installing spas-gcal
 ``` bash
