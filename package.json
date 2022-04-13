@@ -17,7 +17,7 @@
     "json"
   ],
   "dependencies": {
-    "async": "0.2.x",
+    "async": "3.2.x",
     "spas-http": "0.1.x"
   },
   "main": "./api.js",
